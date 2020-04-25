@@ -7,8 +7,7 @@
     "finish-args": [
         "--share=ipc",
         "--socket=fallback-x11",
-        "--socket=wayland",
-        "--talk-name=org.freedesktop.Notifications"
+        "--socket=wayland"
     ],
     "modules": [
         {
@@ -19,8 +18,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/Huluti/Coulr",
-                    "tag": "1.8",
-                    "commit": "5e67110f73ce4a584b8cef7075346ecddf352362"
+                    "tag": "1.8.1",
+                    "commit": "8c52a1c2969de943cae95a6c372138e4cf17e8c8"
                 }
             ]
         }
