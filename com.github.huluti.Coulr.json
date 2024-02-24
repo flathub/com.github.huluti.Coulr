@@ -40,8 +40,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/Huluti/Coulr",
-                    "tag": "2.0.1",
-                    "commit": "8879b5ce1560948113bf59179f37ae1c6813dc77"
+                    "tag": "2.1.0",
+                    "commit": "3a515a0169f7fe59eac7fb80b522ae77e3cc9714"
                 }
             ]
         }
