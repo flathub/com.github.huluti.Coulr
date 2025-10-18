@@ -1,7 +1,7 @@
 {
     "app-id": "com.github.huluti.Coulr",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "47",
+    "runtime-version": "49",
     "sdk": "org.gnome.Sdk",
     "command": "coulr",
     "finish-args": [
@@ -11,7 +11,7 @@
         "--device=dri"
     ],
     "modules": [
-        {
+    	{
             "name": "libportal",
             "buildsystem": "meson",
             "config-opts": [
